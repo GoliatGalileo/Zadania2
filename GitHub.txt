@@ -6,13 +6,13 @@
 </head>
 <body>
 
-    <h1>Mam zaszczyt przedstawiæ pañstwu 5 naszybszych aut</h1>
+    <h1>Prezentacja zawiera 5 naszybszych aut</h1>
     <hr>
     <p>Bugatti Veyron 16.4</p>
     <figure>
-        <img src="https://autogen.pl/cars/_mini/BugaVeyPS-850x430.jpg" alt="Bugatti Veyron 16.4" width="850" height="430">
+        <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Focdn.eu%2Fpulscms-transforms%2F1%2FQzEktkpTURBXy80NTFmMDZhZDc4MTFhZTA3Y2EzMzlhMWJjYjQ2Mzk4MC5qcGeRlQM2AM0EAM0CPw&tbnid=UwwjyNImRInnaM&vet=12ahUKEwiyiYn0xcr-AhUMvyoKHZGiB2QQMygAegUIARC5AQ..i&imgrefurl=https%3A%2F%2Fwww.auto-swiat.pl%2Ftesty%2Ftesty-nowych-samochodow%2Fbugatti-veyron-164-super-sport-rekordowe-1200-km%2Felk9fvz&docid=zHUCWX29LgicmM&w=970&h=575&q=Bugatti%20veyron&client=firefox-b-d&ved=2ahUKEwiyiYn0xcr-AhUMvyoKHZGiB2QQMygAegUIARC5AQ" alt="Bugatti Veyron 16.4" width="850" height="430">
         <figcaption>
-            zdjêcie 1. Bugatti Veyron 16.4
+            zdjÃªcie 1. Bugatti Veyron 16.4
         </figcaption>
     </figure>
     <hr>
@@ -48,7 +48,7 @@
         </figcaption>
     </figure>
     <hr>
-    <h2>Dziêkuje za uwagê </h2>
+    <h2>DziÃªkuje za uwagÃª </h2>
 
 
 
