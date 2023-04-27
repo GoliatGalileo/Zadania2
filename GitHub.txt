@@ -1,0 +1,55 @@
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>5 najszybszych aut swiata</title>
+</head>
+<body>
+
+    <h1>Mam zaszczyt przedstawiæ pañstwu 5 naszybszych aut</h1>
+    <hr>
+    <p>Bugatti Veyron 16.4</p>
+    <figure>
+        <img src="https://autogen.pl/cars/_mini/BugaVeyPS-850x430.jpg" alt="Bugatti Veyron 16.4" width="850" height="430">
+        <figcaption>
+            zdjêcie 1. Bugatti Veyron 16.4
+        </figcaption>
+    </figure>
+    <hr>
+    <p>Bugatti Chiron</p>
+    <figure>
+         <img src="https://autogen.pl/cars/_mini/BugaChirPurSport-850x430.jpg" alt="Bugatti Chiron" width="850" height="430">
+        <figcaption>
+            zdjecie 2. Bugatti Chiron
+        </figcaption>
+    </figure>
+    <hr>
+    <p>Nissan GT-R</p>
+    <figure>
+        <img src="https://autogen.pl/cars/_mini/NissGTRSpecV-850x430.jpg" alt="Nissan GT-R" width="850" height="430">
+        <figcaption>
+            zdjecie 3. Nissan GT-R
+        </figcaption>
+    </figure>
+    <hr>
+    <p>Porsche 911</p>
+    <figure>
+        <img src="https://autogen.pl/cars/_mini/Por992C4S-850x430.jpg" alt="Porsche 911" width="850" height="430">
+        <figcaption>
+            zdjecie 4. Porsche 911
+        </figcaption>
+    </figure>
+    <hr>
+    <p>Lamborghini Veneno</p>
+    <figure>
+        <img src="https://autogen.pl/cars/_mini/LamboVeneno-850x430.jpg" alt="Lamborghini Veneno" width="850" height="430">
+        <figcaption>
+            zdjecie 5. Lamborghini Veneno
+        </figcaption>
+    </figure>
+    <hr>
+    <h2>Dziêkuje za uwagê </h2>
+
+
+
+</body>
